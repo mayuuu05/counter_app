@@ -1,25 +1,12 @@
 # counter_app
 
 A new Flutter project.
-[Uploading counter_app.iml…]()<?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/build" />
-    </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Dart SDK" level="project" />
-    <orderEntry type="library" name="Dart Packages" level="project" />
-  </component>
-</module>
 
 
 
 
 <p align="center">
+  https://github.com/mayuuu05/counter_app/assets/149376263/28a8e42e-2a72-4681-9b47-de771411640f
   <img src = "https://github.com/mayuuu05/counter_app/assets/149376263/8e9db48a-416a-420f-b34a-c92a485f9e1d" width=22% height=35% >
 </p>
 ## Getting Started
