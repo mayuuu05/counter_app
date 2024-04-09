@@ -5,7 +5,7 @@ A new Flutter project.
 
 https://github.com/mayuuu05/counter_app/assets/149376263/28a8e42e-2a72-4681-9b47-de771411640f
 
-<p align="center">
+<p >
   
   <img src = "https://github.com/mayuuu05/counter_app/assets/149376263/8e9db48a-416a-420f-b34a-c92a485f9e1d" width=22% height=35% >
 </p>
