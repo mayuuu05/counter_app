@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+
+<p align="center">
+  <img src = "https://github.com/mayuuu05/counter_app/assets/149376263/8e9db48a-416a-420f-b34a-c92a485f9e1d" width=22% height=35% >
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
